@@ -9121,3 +9121,9 @@ hr {
   font-size: smaller;
   color: #ea0606;
 }
+
+.product-form__item--custom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
